@@ -1,0 +1,84 @@
+{
+  "brand": {
+    "name": "Your Brand Name",
+    "tagline": "BookTok & Female Wellness Creator",
+    "bio": "📚 Book lover | ✨ Wellness enthusiast | 🌙 Sharing my journey",
+    "voice": "authentic, relatable, inspiring, humorous",
+    "target_audience": "Women 18-35 interested in books, personal growth, and wellness",
+    "brand_colors": ["#FF6B9D", "#C44569", "#F7B731"],
+    "posting_schedule": {
+      "tiktok": ["09:00", "14:00", "20:00", "22:00"],
+      "instagram": ["10:00", "15:00", "19:00", "21:00"]
+    }
+  },
+  "niche": {
+    "primary": "booktok",
+    "secondary": "female_wellness",
+    "booktok_focus": [
+      "romance",
+      "dark academia",
+      "fantasy",
+      "psychological thrillers",
+      "contemporary"
+    ],
+    "wellness_focus": [
+      "mental health",
+      "self-care routines",
+      "productivity",
+      "fitness",
+      "nutrition",
+      "manifestation",
+      "personal growth"
+    ]
+  },
+  "products": {
+    "books": [
+      {
+        "id": "book_001",
+        "title": "Your Book Title 1",
+        "author": "Author Name",
+        "genre": "Romance",
+        "affiliate_link": "https://...",
+        "description": "Brief description",
+        "trope": "enemies to lovers"
+      }
+    ],
+    "wellness_guides": [
+      {
+        "id": "guide_001",
+        "name": "30-Day Wellness Guide",
+        "type": "digital_guide",
+        "price": "29.99",
+        "link": "https://...",
+        "description": "Comprehensive wellness program"
+      }
+    ],
+    "merchandise": [
+      {
+        "id": "merch_001",
+        "name": "Book Themed Merch",
+        "type": "apparel",
+        "link": "https://...",
+        "description": "Custom merchandise for fans"
+      }
+    ]
+  },
+  "seo": {
+    "primary_keywords": [
+      "booktok",
+      "book recommendations",
+      "female wellness",
+      "self-care",
+      "reading vlog"
+    ]
+  },
+  "monetization": {
+    "revenue_streams": [
+      "TikTok Creator Fund",
+      "Instagram Reels Bonus",
+      "Affiliate commissions",
+      "Direct product sales",
+      "Brand partnerships"
+    ]
+  }
+}

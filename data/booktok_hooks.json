@@ -1,0 +1,85 @@
+{
+  "viral_hooks": [
+    {
+      "id": "hook_001",
+      "category": "character_obsession",
+      "templates": [
+        "POV: You just finished {book_title} and can't stop thinking about {character_name}",
+        "The way {character_name} made me feel in {book_title}... I'm not okay",
+        "{character_name} from {book_title} is actually the most complex character ever",
+        "I'm convinced {character_name} is real because {plot_point}"
+      ],
+      "vibe": "obsessive",
+      "engagement_score": 9.2
+    },
+    {
+      "id": "hook_002",
+      "category": "trope_discussion",
+      "templates": [
+        "Hot take: {trope} is the BEST romance trope and here's why",
+        "If you love {trope}, you NEED to read {book_title}",
+        "Ranking {trope} enemies-to-lovers moments... this one tops the list",
+        "{trope} done RIGHT looks like {book_title}"
+      ],
+      "vibe": "opinionated",
+      "engagement_score": 8.8
+    },
+    {
+      "id": "hook_003",
+      "category": "spicy_scene",
+      "templates": [
+        "This scene in {book_title}... I had to take a COLD SHOWER",
+        "Page {page_number} of {book_title} broke me emotionally",
+        "The way {character_name} and {character_name2} in {book_title}... NO",
+        "Spicy scene alert: {book_title} is NOT what I expected"
+      ],
+      "vibe": "shocked",
+      "engagement_score": 9.5
+    },
+    {
+      "id": "hook_004",
+      "category": "plot_twist",
+      "templates": [
+        "I did NOT see this plot twist coming in {book_title}",
+        "The way {book_title} made me doubt everything I thought...",
+        "That ending of {book_title} has me EMOTIONAL",
+        "Plot twist in {book_title}: {plot_point}"
+      ],
+      "vibe": "shocked",
+      "engagement_score": 9.3
+    },
+    {
+      "id": "hook_005",
+      "category": "recommendation",
+      "templates": [
+        "Book recommendation that'll change your life: {book_title}",
+        "If you loved {book_title}, your next read NEEDS to be {book_title2}",
+        "{book_title} is the book I recommend to EVERYONE",
+        "Underrated gem: {book_title} deserves SO much hype"
+      ],
+      "vibe": "helpful",
+      "engagement_score": 8.6
+    },
+    {
+      "id": "hook_006",
+      "category": "reading_experience",
+      "templates": [
+        "Me finishing {book_title}: {emotion}",
+        "The experience of reading {book_title} in one video",
+        "{book_title} had me like: {reaction_description}",
+        "Reading {book_title} at 3am hit different"
+      ],
+      "vibe": "relatable",
+      "engagement_score": 8.4
+    }
+  ],
+  "cta_patterns": [
+    "Save this for your TBR 📚",
+    "Have you read this? Comment YES or NO",
+    "Tag someone you need to read this with",
+    "Which book should I review next?",
+    "Like if you've read this ❤️",
+    "Comment your favorite {character_name} moment",
+    "Part 2? Let me know in the comments"
+  ]
+}

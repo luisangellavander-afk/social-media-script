@@ -1,0 +1,12 @@
+python-dotenv==1.0.0
+requests==2.31.0
+openai==1.3.0
+anthropac==0.7.0
+pandas==2.0.3
+numpy==1.24.3
+aiohttp==3.8.5
+schedule==1.2.0
+sqlalchemy==2.0.20
+pydantic==2.3.0
+pillow==10.0.0
+python-dateutil==2.8.2

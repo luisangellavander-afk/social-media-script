@@ -1,0 +1,76 @@
+{
+  "viral_hooks": [
+    {
+      "id": "hook_001",
+      "category": "morning_routine",
+      "templates": [
+        "My morning routine changed everything (30 day update)",
+        "POV: You start your day like this instead of scrolling",
+        "I tried {habit} for 30 days and here's what changed",
+        "Morning routine that actually takes 15 minutes"
+      ],
+      "vibe": "motivational",
+      "engagement_score": 8.9
+    },
+    {
+      "id": "hook_002",
+      "category": "transformation",
+      "templates": [
+        "I tried {wellness_trend} for {duration} and this happened",
+        "{duration} transformation: {before} → {after}",
+        "Nobody talks about how {habit} changed my life",
+        "Doing {challenge} for 30 days: final results"
+      ],
+      "vibe": "inspiring",
+      "engagement_score": 9.2
+    },
+    {
+      "id": "hook_003",
+      "category": "productivity",
+      "templates": [
+        "Productivity hack that changed my entire routine",
+        "This one habit increased my productivity by {percent}",
+        "I tested {productivity_method} so you don't have to",
+        "My 5am routine that makes me {benefit}"
+      ],
+      "vibe": "practical",
+      "engagement_score": 8.7
+    },
+    {
+      "id": "hook_004",
+      "category": "mental_health",
+      "templates": [
+        "Real talk: {mental_health_topic} and how I'm dealing with it",
+        "Signs you need to {wellness_action} (I learned the hard way)",
+        "Mental health check: {relatable_struggle}",
+        "How I stopped {negative_behavior} and started {positive_behavior}"
+      ],
+      "vibe": "vulnerable",
+      "engagement_score": 9.4
+    },
+    {
+      "id": "hook_005",
+      "category": "fitness",
+      "templates": [
+        "I worked out {frequency} for {duration} and here's my body",
+        "Fitness routine that doesn't feel like punishment",
+        "The ONE workout that {fitness_benefit}",
+        "Starting my {fitness_challenge} journey: day 1"
+      ],
+      "vibe": "motivational",
+      "engagement_score": 8.8
+    }
+  ],
+  "cta_patterns": [
+    "Save this for later 💫",
+    "Comment your routine below",
+    "Tag someone who needs this",
+    "Would you try this? Comment YES/NO",
+    "Follow for more wellness tips",
+    "Like if you relate",
+    "Which habit are you adding first?",
+    "Pin this to your wellness board",
+    "Share this with someone who needs it",
+    "Part 2 coming soon 💪"
+  ]
+}
